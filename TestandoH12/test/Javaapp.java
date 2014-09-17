@@ -11,5 +11,6 @@ public class Javaapp {
     public static void main (String [] args){
     
         System.out.println("AHAHHAHAHAH ala ");
+        int intteiro=10;
     }
 }
